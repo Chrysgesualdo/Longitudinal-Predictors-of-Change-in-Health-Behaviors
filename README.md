@@ -13,11 +13,5 @@
 
 ## Summary
 
-In this project, data was collected from 163 first-year university students at the beginning and end of their first semester. The analysis includes:
-
-- **ANOVAs and Repeated Measures Analyses:** To assess changes over time.
-- **Structural Equation Modeling:** To examine relationships between variables.
-- **Linear Regressions:** To analyze the impact of different factors on health behavior changes.
-
-The study explores the impact of initial health behaviors, parental influence, and living arrangements on changes in health behaviors and expectations. The findings provide insights into the dynamics of health behavior during the transition to university life.
+In this project, I investigated changes in health behaviors and expectations of first-year university students during their first semester. Using a longitudinal survey design, I collected from 163 students at the beginning and end of the semester. I performed ANOVAs, repeated measures analyses, structural equation modeling, and linear regressions using SPSS and Lisrel. The study examined the impact of initial behaviors, parental influence, and living arrangements on these changes, providing insights into health behavior dynamics during the transition to university life.
 
