@@ -1,12 +1,15 @@
-# Project Title: Predictors of Coping in Communication About Death
+
+# Project Title: Longitudinal Predictors of Change in Health Behaviors
 
 ## Techniques Used:
-- Experimental Design
+- Longitudinal survey design
 - Descriptive statistics
-- Vignettes study
-- One-way and two-way ANOVAs
-- Effect Size Calculation (ηp²)
+- Data collection via online questionnaires
+- ANOVAs with repeated measures
+- Structural equation modeling
+- Linear regression
 - SPSS Statistics Software
+- Lisrel Statistics Software
 
 ## Summary:
-In this project, my research group and I investigated coping mechanisms for expectation violations in end-of-life communication among young adults. Through two experiments, we presented vignettes to 261 university students, manipulating the credibility and valence of expectation-disconfirming information. Using one-way and two-way ANOVAs in SPSS, we analyzed responses to identify predictors of coping strategies, focusing on immunization and accommodation outcomes.
+In this project, I investigated changes in health behaviors and expectations of first-year university students during their first semester. Using a longitudinal survey design, I collected data from 163 students at the beginning and end of the semester. I performed ANOVAs, repeated measures analyses, structural equation modeling, and linear regressions using SPSS and Lisrel. The study examined the impact of initial behaviors, parental influence, and living arrangements on these changes, providing insights into health behavior dynamics during the transition to university life.
